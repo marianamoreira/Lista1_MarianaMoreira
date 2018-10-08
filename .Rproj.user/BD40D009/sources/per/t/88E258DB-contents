@@ -1,9 +1,3 @@
-#https://cienciapratica.wordpress.com/2015/03/17/graficos-no-r-exemplos/
-#http://2engenheiros.com/2017/05/27/como-calcular-estatisticas-basicas-no-r/
-#https://cran.r-project.org/doc/contrib/Itano-descriptive-stats.pdf
-#https://edisciplinas.usp.br/pluginfile.php/2996937/mod_resource/content/1/Tutorial.pdf
-#https://rstudio-pubs-static.s3.amazonaws.com/106363_3cdd7d2bedb74c32a5ae86b4bdefb435.html
-
 library(readxl)
 exercicio1 <- read_excel("dados/exercicio1.xls")
 View(exercicio1)
